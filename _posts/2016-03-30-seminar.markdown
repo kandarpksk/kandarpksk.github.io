@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Computational Humour"
+title: "Computational Humour"
+permalink: /comhum
 ---
 
 Work in progress.

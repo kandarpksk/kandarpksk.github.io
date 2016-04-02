@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Thoughts"
+title: "Thoughts"
+permalink: /thoughts/
 ---
 
 *Work in progress.*
