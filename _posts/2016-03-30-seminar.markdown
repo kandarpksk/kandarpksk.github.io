@@ -1,7 +1,18 @@
 ---
 layout: post
-title: "Computational Humour"
-permalink: /comhum
+title: "A seminar on Computational Humour"
+permalink: /computational-humour
 ---
 
-Work in progress.
+Computational humour is the problem of generating, identifying and maybe even responding to humourous situations. It lies in the AI-complete category of problems, meaning that if it is solved, computers can be said to be as intelligent as humans.
+
+The seminar begin by summarizing existing theories of humour and their associated mathematical models. Then, we<sup>1</sup> survey a paper that uses machine learning to classify text fragments as humourous or not, followed by a paper that algorithmically generates knock-knock jokes (you read it right!), and finally a paper that constructs pairs of graphs in order to generate conversational jokes.
+
+Contact me at \<my first name> \<my initials (*hint: middle initial is S*)> ATR <google's email service> to reuse or adapt these slides.
+
+<iframe src="https://drive.google.com/file/d/0ByQtLx_3RS9-b1ZMOTAwYkU1Z3M/preview" width="800" height="605"></iframe>
+
+<br/>
+<sup>1</sup> This seminar was presented in a team of three as part of an Artificial Intelligence course.
+<br/>
+Comment by Professor Bhattacharya (now Director, IIT Patna): <i>"Foundation, technique, recent advances - all aspects were dealt with with aplomb and insight. A model seminar, no doubt."</i>
