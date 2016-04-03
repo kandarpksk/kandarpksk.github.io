@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Internet Identity"
-permalink: /thoughts/
+permalink: /thoughts
 ---
 
 *Work in progress.*

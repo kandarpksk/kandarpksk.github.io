@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adobe Marketing Cloud"
-permalink: /amcviz/
+permalink: /amcviz
 ---
 
 ...

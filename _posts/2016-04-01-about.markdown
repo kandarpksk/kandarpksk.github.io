@@ -1,8 +1,8 @@
 ---
 title: "About"
 layout: pdf
-permalink: /about/
-excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Download my resume <a href="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/view">here</a> or click the <span style="color:#8C8C8C">dots</span> below below to view.<br/>
+permalink: /about
+excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click the <span style="color:#8C8C8C">dots</span> below below to view my resume.<br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)
 <br/><center>I'm a first year graduate student at UCSD fascinated by HCI, more specifically, interaction design and information visualization.<br/>Download my resume <a href="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/view">here</a>.</center><br/>

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Art, Depixelized"
+permalink: /depix
+excerpt: The embedded video shows a frame-by-frame translation of gameplay from Super Mario Bros. into the corresponding Voronoi diagrams.<br/>
+---
+
+<div align="justify">The embedded video shows a frame-by-frame translation of gameplay<sup>1</sup> from Super Mario Bros. into the corresponding Voronoi diagrams. This was part of an attempt to implement Kopf and Lischinski's SIGGRAPH'11 paper 'Depixelizing Pixel Art' in a team of two. Code available on <a href="https://github.com/kandarpksk">GitHub</a>.</div><br/>
+<iframe width="290" height="290" src="https://www.youtube.com/embed/n4UP7V_Ev0g" frameborder="0" allowfullscreen></iframe>
+
+<br/>
+<sup>1</sup>*now broken* [link](http://research.microsoft.com/en-us/um/people/kopf/pixelart/supplementary/video_nearest_4x_h264.mp4) to source video
