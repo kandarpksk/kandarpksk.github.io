@@ -1,11 +1,11 @@
 ---
 title: "A few words about me"
-layout: post
+layout: page
 permalink: /about
 excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click the <span style="color:#8C8C8C">dots</span> below below to view my resume.<br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)
 I'm a first year graduate student at UCSD fascinated by HCI, more specifically, interaction design and information visualization. Download my resume <a href="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/view">here</a>.<br/>
 
-<iframe src="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/preview" width="95%" style="position: absolute; height: 100%; border: none"></iframe>
+<iframe src="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/preview" width="96.5%" style="position: relative; height: 500px; border: none"></iframe>
 <!-- add analytics -->
