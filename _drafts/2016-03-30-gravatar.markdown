@@ -4,25 +4,8 @@ title: "An Internet Identity"
 permalink: /thoughts
 ---
 
-*Work in progress.*
+Having seen or tried out many different apps that "handle" contacts on Android, including iterations of Google's stock solution that comes with the default dialer (they really don't seem to settle on a design), a more telling question comes to mind.
 
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**There's nothing that ensures you never lose someone's contact information.** A "contact" is characterized by the contact information such as email or phone number, rather than by, say, an *internet identity* of the person. A person much inform all others about any changed information (and everyone must individually update it in their "books").
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
- -->
+Before fixing it, there are two questions to be addressed. Is there a way to avoid having a centralized authority (the equivalent of a phonebook publisher) which can be compromised? Also, how much control over what information (or subsequent updates) is shared can be had?
