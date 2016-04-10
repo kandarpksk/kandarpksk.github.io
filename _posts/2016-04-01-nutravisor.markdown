@@ -2,14 +2,11 @@
 layout: post
 title: "App to \"Eat healthy, easy!\""
 permalink: /nutravisor
-date: 2016-03-31 00:30:00
-excerpt: See a quick walkthrough of the (non-native) mobile web app <i>Nutravisor</i> developed based on an iterative process of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. It's easy to note that it relies on visual feedback rather than text, which most of our testers found to be very effective.<br/>
+date: 2016-04-01 09:30:00
 ---
 
-<div align="justify" style="margin-bottom:15px;">See a quick walkthrough of the (non-native) mobile web app <i>Nutravisor</i> developed based on an iterative process of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. It's easy to note that it relies on visual feedback rather than text, which most of our testers found to be very effective.</div>
-
+<div align="justify" style="margin-bottom:15px;">See a quick walkthrough of the (non-native) mobile web app <i>Nutravisor</i> developed based on an iterative process of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. It's easy to note that it relies on visual feedback rather than text, which most of our testers found to be very effective. Visit <a href="http://fb.com/Nutravisor">fb.com/Nutravisor</a> for more!</div>
 Try keeping your phone ``horizontal`` (maybe refresh the page too) and play the video in ``full screen`` if it's too small.
-
 <div id="fb-root" style="margin-top:20px;"></div>
 <script>
 	(function(d, s, id) {
@@ -20,7 +17,7 @@ Try keeping your phone ``horizontal`` (maybe refresh the page too) and play the 
 		fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));
 </script>
-<div class="fb-video" data-href="https://www.facebook.com/Nutravisor/videos/526430807539546/" data-width="475">
+<div class="fb-video" data-href="https://www.facebook.com/Nutravisor/videos/526430807539546/" data-width="475" style="display:block">
 	<div class="fb-xfbml-parse-ignore">
 		<blockquote cite="https://www.facebook.com/Nutravisor/videos/526430807539546/">
 			<a href="https://www.facebook.com/Nutravisor/videos/526430807539546/">Walkthrough</a>
@@ -28,6 +25,3 @@ Try keeping your phone ``horizontal`` (maybe refresh the page too) and play the 
 		</blockquote>
 	</div>
 </div>
-
-<br/>
-Visit <a href="http://fb.com/Nutravisor">fb.com/Nutravisor</a> for more!

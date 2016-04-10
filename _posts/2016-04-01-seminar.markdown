@@ -2,7 +2,8 @@
 layout: post
 title: "A little bit of humor"
 permalink: /computational-humor
-excerpt: Computational humor is the problem of generating, identifying and  even responding to humorous situations. It lies in the AI-complete category of problems, meaning that if it is solved, computers can be said to be as intelligent as humans.<br/>
+date: 2016-04-01 09:15:00
+excerpt: Not an April Fools' Day joke, Computational Humor is pretty serious business! It is the problem of generating, identifying and even responding to humorous situations. Read ahead for a great seminar on the topic.<br/>
 ---
 
 <div align="justify">Computational humor is the problem of generating, identifying and maybe even responding to humorous situations. It lies in the AI-complete category of problems, meaning that if it is solved, computers can be said to be as intelligent as humans.
