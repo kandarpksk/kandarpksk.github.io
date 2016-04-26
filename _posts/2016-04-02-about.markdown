@@ -2,7 +2,7 @@
 title: "A few words about me"
 layout: page
 permalink: /about
-date: 2016-04-01 09:45:00
+date: 2016-04-02 09:30:00
 excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click the <span style="color:#8C8C8C">dots</span> to view my resume. Also see the posts below for some of my work.<br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)

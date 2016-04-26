@@ -1,0 +1,18 @@
+---
+layout: post
+title: "TITLE"
+permalink: /viz
+date: 2016-04-02 09:15:00
+---
+
+I wish to recreate the visualizations for the purpose of my portfolio, but don't recall the descriptions of the bubbles, i.e. what the size/speed/color mean (and I believe there was some text on clicking).
+
+Size was number of products in the cart
+
+I didn't think colour meant any thing
+
+Speed was based on length of the session
+
+By clicking you could see the session
+
+I actually (probably) remember the color coding now: it was the prediction whether the customer will buy or not.
