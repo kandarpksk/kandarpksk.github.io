@@ -3,10 +3,10 @@ title: "A few words about me"
 layout: page
 permalink: /about
 date: 2016-04-02 09:30:00
-excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click the <span style="color:#8C8C8C">dots</span> to view my resume. Also see the posts below for some of my work.<br/>
+excerpt: I'm a first year graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click the <span style="color:#8C8C8C">dots</span> to view my resume. <b>Also see the posts below for some of my work.</b><br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)
-I'm a first year graduate student at UCSD fascinated by HCI, more specifically, interaction design and information visualization. Download my resume <a href="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/view">here</a>.<br/>
+I'm a first year graduate student at UCSD fascinated by HCI, more specifically, interaction design and information visualization. Download my resume [here](/kandarp-resume.pdf).<br/>
 
 <iframe src="https://docs.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/preview" width="96.5%" style="position: relative; height: 500px; border: none"></iframe>
 <!-- add analytics -->

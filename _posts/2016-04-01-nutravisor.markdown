@@ -3,7 +3,7 @@ layout: post
 title: "App to \"Eat healthy, easy!\""
 permalink: /nutravisor
 date: 2016-04-01 09:30:00
-excerpt: See a quick walkthrough of the <i>mobile</i> web app <a href="http://nutravisor.kandarp.xyz/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8">Nutravisor</a> (alternative link&#58; <a href="https://nutravisor.herokuapp.com/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8">nutravisor.herokuapp.com</a>) developed in an iterative fashion using techniques of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. <br/> <br/> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNutravisor%2Fphotos%2Fa.526512350864725.1073741830.526122350903725%2F526512037531423%2F%3Ftype%3D3&width=300" width="300" height="606" style="border:none; overflow:hidden; display:block; margin-bottom:-40px;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+excerpt: See a quick walkthrough of the <i>mobile</i> web app <a href="http://nutravisor.kandarp.xyz/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8">Nutravisor</a> developed in an iterative fashion using techniques of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. <br/> <br/> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNutravisor%2Fphotos%2Fa.526512350864725.1073741830.526122350903725%2F526512037531423%2F%3Ftype%3D3&width=300" width="300" height="606" style="border:none; overflow:hidden; display:block; margin-bottom:-40px;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 ---
 
 <div align="justify" style="margin-bottom:15px;">See a quick walkthrough of the (non-native) mobile web app <i>Nutravisor</i> developed in an iterative fashion using techniques of needfinding, rapid prototyping, heuristic evaluation, A/B testing, etc. It's easy to note that it relies on visual feedback rather than text, which most of our testers found to be very effective. Visit <a href="http://fb.com/Nutravisor">fb.com/Nutravisor</a> for more!</div>
@@ -26,3 +26,6 @@ Try keeping your phone ``horizontal`` (maybe refresh the page too) and play the 
 		</blockquote>
 	</div>
 </div>
+
+<br/>
+<i>Alternative link&#58; <a href="https://nutravisor.herokuapp.com/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8">nutravisor.herokuapp.com</a></i>
