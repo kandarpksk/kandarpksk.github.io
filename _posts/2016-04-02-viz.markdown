@@ -20,3 +20,7 @@ A **bubble** would stay on screen, moving from left to right, based on the lengt
 Each bubble could be **clicked** to see specific **customer information**.
 
 ![screen capture of D3 visualization](/d3-short.gif)
+
+{% comment %}
+<br/><iframe src="//giphy.com/embed/l2SpRVqjf1Yx1FI8U" width="80%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+{% endcomment %}
