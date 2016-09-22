@@ -13,3 +13,6 @@ github_username:  kandarpksk
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA-84595976-1
