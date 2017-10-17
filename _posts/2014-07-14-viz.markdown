@@ -5,18 +5,12 @@ permalink: /viz
 excerpt: My internship at Adobe Technology Labs (Bangalore) was in an open-ended role related to Business Intelligence and Campaign Design. We analyzed abandonment of shopping carts to classify site visitors based on likelihood to buy. Also, their propensity to unsubscribe from related e-commerce email campaigns was evaluated. We filed two US patents at the end of the internship. My unique contribution was visualizing both tendencies in conjunction, to better target customers of e-commerce sites.<br>
 ---
 
-My internship at Adobe Technology Labs (Bangalore) was in an open-ended role wherein the mentor and a team of three worked on a mutually-chosen topic related to Business Intelligence and Campaign Design.
-We analyzed abandonment of shopping carts to classify site visitors based on likelihood to buy.
-Also, their propensity to unsubscribe from related e-commerce email campaigns was evaluated.
-We filed two US patents titled '*Online Shopping Cart [Abandonment] Analysis*' and '*Predicting Unsubscription of Potential Customers*'.
+My internship at Adobe Technology Labs (Bangalore) was in an open-ended role wherein the mentor and a team of three worked on a mutually-chosen topic related to Business Intelligence and Campaign Design. We analyzed abandonment of shopping carts to classify site visitors based on likelihood to buy. Also, their propensity to unsubscribe from related e-commerce email campaigns was evaluated. We filed two US patents titled '*Online Shopping Cart [Abandonment] Analysis*' and '*Predicting Unsubscription of Potential Customers*'.
 
-My unique contribution was visualizing both tendencies in conjunction, to better target customers of e-commerce sites (possibly in real time, to push offers based on customer characteristics).
-Shown below is a screen capture of the *stock* D3.js visualization which was heavily adapted for the purposes described shortly.
+My unique contribution was visualizing both tendencies in conjunction, to better target customers of e-commerce sites (possibly in real time, to push offers based on customer characteristics). Shown below is a screen capture of the *stock* D3.js visualization which was heavily adapted for the purposes described shortly.
 
-The **size** of the bubbles indicated the number of **items in the cart** of a potential customer.
-The Adobe colour scheme was used, with **colors** indicating the **predictions**.
-A **bubble** would stay on screen, moving from left to right, based on the length of the **browsing session**.
-Each bubble could be **clicked** to see specific **customer information**.
+The **size** of the bubbles indicated the number of **items in the cart** of a potential customer. The Adobe colour scheme was used, with **colors** indicating the **predictions**.
+A **bubble** would stay on screen, moving from left to right, based on the length of the **browsing session**. Each bubble could be **clicked** to see specific **customer information**.
 
 ![screen capture of D3 visualization](/d3-short.gif)
 
