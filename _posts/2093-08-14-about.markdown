@@ -2,8 +2,7 @@
 title: "About me"
 layout: page
 permalink: /about
-date: 2016-09-15 09:30:00
-excerpt: I'm a graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click (or tap) the title (or the <span style="color:#7e0308">dots</span>) to view my resume.<br/>
+excerpt: I'm a graduate student at UCSD fascinated by HCI, more specifically, all things to do with applied interaction design. Click (tap) the title, or the <span style="color:#7e0308">dots</span> below, to view my resume.<br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)
 I'm a graduate student at UCSD fascinated by HCI, more specifically, interaction design and information visualization. Download my resume [here](https://drive.google.com/file/d/0ByQtLx_3RS9-UXRTempLQXB5TEk/view?usp=sharing) (last updated: October 2016).<br/>

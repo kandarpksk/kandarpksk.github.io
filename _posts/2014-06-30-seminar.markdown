@@ -2,7 +2,6 @@
 layout: post
 title: "A little bit of humor"
 permalink: /computational-humor
-date: 2016-04-01 09:15:00
 excerpt: Computational Humor is pretty serious business&#58; it is the problem of generating, identifying and even responding to humorous situations. Read ahead for a great seminar on the topic.<br/>
 ---
 

@@ -2,8 +2,7 @@
 layout: post
 title: "A summer at Adobe"
 permalink: /viz
-date: 2016-04-02 09:15:00
-excerpt: My internship at Adobe Technology Labs (Bangalore) was in an open-ended role related to Business Intelligence and Campaign Design. We analyzed abandonment of shopping carts to classify site visitors based on likelihood to buy. Also, their propensity to unsubscribe from related e-commerce email campaigns was evaluated. We filed two US patents at the end of the internship. My unique contribution was visualizing both tendencies in conjunction, to better target customers of e-commerce sites. <i>Read ahead for more information about the visualization.</i>
+excerpt: My internship at Adobe Technology Labs (Bangalore) was in an open-ended role related to Business Intelligence and Campaign Design. We analyzed abandonment of shopping carts to classify site visitors based on likelihood to buy. Also, their propensity to unsubscribe from related e-commerce email campaigns was evaluated. We filed two US patents at the end of the internship. My unique contribution was visualizing both tendencies in conjunction, to better target customers of e-commerce sites.<br>
 ---
 
 My internship at Adobe Technology Labs (Bangalore) was in an open-ended role wherein the mentor and a team of three worked on a mutually-chosen topic related to Business Intelligence and Campaign Design.
