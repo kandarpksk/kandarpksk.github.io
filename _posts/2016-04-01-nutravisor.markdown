@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A balanced nutrition advisor"
+title: "A stab at Interaction Design"
 permalink: /nutravisor
 date: 2016-04-01 09:30:00
 excerpt: Developed as a mobile web app, <a href="http://nutravisor.kandarp.xyz/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8">Nutravisor</a> was designed in an iterative fashion using techniques of needfinding, prototyping, heuristic evaluation, A/B testing, etc.
