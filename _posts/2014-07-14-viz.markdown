@@ -12,7 +12,7 @@ My unique contribution was visualizing both tendencies in conjunction, to better
 The **size** of the bubbles indicated the number of **items in the cart** of a potential customer. The Adobe colour scheme was used, with **colors** indicating the **predictions**.
 A **bubble** would stay on screen, moving from left to right, based on the length of the **browsing session**. Each bubble could be **clicked** to see specific **customer information**.
 
-![screen capture of D3 visualization](/d3-short.gif)
+![screen capture of D3 visualization](/files/d3-short.gif)
 
 {% comment %}
 <br/><iframe src="//giphy.com/embed/l2SpRVqjf1Yx1FI8U" width="80%" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
