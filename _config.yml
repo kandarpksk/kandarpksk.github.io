@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-#baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Kandarp Khandwala
+description:    "Kandarp Khandwala's personal site."
+url:            "http://kandarp.xyz"
 
-# Author
-author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+# # Author
+# author:
+#   name:         Kandarp Khandwala
+#   url:          http://kandarp.xyz
+#   email:        hidden
 
 # Build settings
 markdown:       kramdown
@@ -24,4 +23,4 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       7
