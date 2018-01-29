@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: page
-permalink: /about
+permalink: /cv
 excerpt: I'm a PhD student at UCSD perennially fascinated by HCI. I work with <a href="http://pgbovine.net">Philip Guo</a> to design & build scalable tools for learning programming online. Click (or tap) the title to view my resume.<br/>
 ---
 [//]: # (Hack to avoid previewing the PDF!)
