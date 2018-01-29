@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A stab at Interaction Design"
+title: "Applied Interaction Design"
 permalink: /ixd
 excerpt: Developed as a mobile web app, Nutravisor was designed in an iterative fashion using techniques of needfinding, prototyping, heuristic evaluation, A/B testing, etc.<br>
 ---
