@@ -1,18 +1,27 @@
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Kandarp Khandwala
-description: > # this means to ignore newlines until "baseurl:"
-  Kandarp Khandwala's personal site.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kandarp.xyz" # the base hostname & protocol for your site
-# github_username:  kandarpksk
+title:          Tale
+description:    "Minimal Jekyll theme for storytellers"
+#baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
+
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
 
 # Build settings
-markdown: kramdown
+markdown:       kramdown
 
-# Google services
-google_analytics: UA-84595976-1
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
