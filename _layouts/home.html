@@ -21,12 +21,12 @@ layout: default
 
 <div class="pagination" style="position: fixed; bottom: 0px; width: 100%; left: 0; padding-bottom: 30px; background-color: white;">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">&#8592;</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><tt>see previous page</tt></a>
   {% endif %}
 
-  <span>{{ paginator.page }}</span>
+  <span style="margin: 5px;"> {{ paginator.page }} </span>
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&#8594;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}"><tt>see more pieces of work</tt></a>
   {% endif %}
 </div>
