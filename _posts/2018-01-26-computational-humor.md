@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "computational humor"
+title: "talk: computational humor"
 permalink: /computational-humor
 ---
 
