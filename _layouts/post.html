@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="post">
+<div class="post" style="margin-bottom: 30px;">
   <!-- <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
@@ -24,13 +24,14 @@ layout: default
 
 </div>
 
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+<div class="pagination" style="position: fixed; bottom: 0px; width: 100%; left: 0; padding-bottom: 30px; background-color: white;">
+  <!-- {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}">&#8592;</a>
+  {% endif %} -->
 
   <a href="#" class="top">Top</a>
+
+  <!-- {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}">&#8594;</a>
+  {% endif %} -->
 </div>
