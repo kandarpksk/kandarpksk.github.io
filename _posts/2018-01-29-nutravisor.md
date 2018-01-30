@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Applied Interaction Design"
+title: "applied interaction design"
 permalink: /nutravisor
 ---
 
