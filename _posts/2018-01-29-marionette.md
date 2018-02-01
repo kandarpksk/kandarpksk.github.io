@@ -4,4 +4,6 @@ title: "current research: marionetting"
 permalink: /marionette
 ---
 
-marionette
+[title] wizard-of-oz with high-fidelity prototypes
+
+[lead]
