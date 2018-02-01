@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "work in progress: marionetting"
+title: "marionetting (work in progress)"
 permalink: /marionette
 ---
 
