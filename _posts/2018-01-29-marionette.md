@@ -4,6 +4,8 @@ title: "current research: marionetting"
 permalink: /marionette
 ---
 
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis ligula. Donec tortor purus, ornare vel, tincidunt at, lacinia ac, leo. Nunc fermentum congue odio. Mauris cursus, pede vitae sagittis luctus, dolor felis aliquam arcu, ac pulvinar lacus massa non ipsum.
+
 TODO
 
 Have you ever done tested -- either as a facilitator or a user -- a prototype and said (or heard) the expressions *just assume it's x*, or *we haven't built it*, or *that case is yet to be handled*?
@@ -18,3 +20,5 @@ Invision-like prototypes are great, but they're not only separated from the prod
 [title] wizard-of-oz with high-fidelity prototypes
 
 [lead] https://en.wikipedia.org/wiki/Proxy_server
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi quis ligula. Donec tortor purus, ornare vel, tincidunt at, lacinia ac, leo. Nunc fermentum congue odio. Mauris cursus, pede vitae sagittis luctus, dolor felis aliquam arcu, ac pulvinar lacus massa non ipsum.

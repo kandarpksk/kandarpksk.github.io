@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TEMPLATE"
+title: "a template"
 permalink: /TEMPLATE
 ---
 

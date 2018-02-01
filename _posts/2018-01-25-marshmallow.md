@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "reimagining android permissions"
+title: "android permissions reimagined"
 permalink: /marshmallow
 ---
 
