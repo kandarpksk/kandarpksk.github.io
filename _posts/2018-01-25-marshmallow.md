@@ -4,4 +4,7 @@ title: "reimagining android permissions"
 permalink: /marshmallow
 ---
 
-reimagining android permissions
+TODO
+
+http://kandarp.xyz/files/kandarp-permissions.pdf
+Defined a new, secure permission model for Android that prevents misuse of permissions while reducing user interruption

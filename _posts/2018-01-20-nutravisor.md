@@ -4,6 +4,8 @@ title: "applied interaction design"
 permalink: /nutravisor
 ---
 
+TODO
+
 Designed as a mobile web app, Nutravisor helps people get visual feedback about how healthy their meals are, without relying on an overload of textual information. It was designed in an iterative fashion using techniques of needfinding, prototyping, heuristic evaluation, A/B testing, etc.
 
 <!-- *experience it at [nutravisor.herokuapp.com](https://nutravisor.herokuapp.com/?username=test&hash=5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8)* -->
