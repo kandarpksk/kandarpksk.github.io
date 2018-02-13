@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "codemotion: interactions with coding videos"
+title: "codemotion: expanding the design space of interactions with programming tutorial videos"
 permalink: /codemotion
 ---
 
