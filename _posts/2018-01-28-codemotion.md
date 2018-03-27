@@ -8,4 +8,4 @@ Videos are popular for computer programming tutorials since they can convey expe
 
 [^1]: **Kandarp Khandwala**, Philip Guo.
 
-(paper under submission to Learning at Scale 2018, shared on request)
+(conditionally accepted to Learning at Scale 2018, see preprint here)
