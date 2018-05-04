@@ -8,4 +8,4 @@ Love them or hate them, videos are a pervasive format for delivering online educ
 
 [^1]: **Kandarp Khandwala**, Philip Guo.
 
-(to appear at <tt>Learning@Scale 2018</tt>)
+(to appear at <tt>Learning@Scale</tt> 2018)
