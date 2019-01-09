@@ -2,7 +2,7 @@
 layout: post
 title: "Android permissions reimagined"
 permalink: /android-permissions
-excerpt: Starting from Marshmallow (Android 6), users could place an app either in a position of absolute distrust or one with a high level of trust. We show how this does not offer the flexibility to allow certain actions while preventing undesirable ones. This paper aims to address the problem by bringing out potential misuse of permissions to the user's attention. To do so, we come up with a new way to assign and declare permissions that can minimize interactions between two sensitive resources which we argue to be what really needs to be monitored and controlled. We also perform static code analysis of seven open-source applications to measure the impact of the proposed model both in terms of usability and from the perspective of developers.
+excerpt: Starting from Marshmallow (Android 6), users could place an app either in a position of absolute distrust or one with a high level of trust. We show how this does not offer the flexibility to allow certain actions while preventing undesirable ones. This paper aims to address the problem by...
 ---
 
 <!-- note: sync with excerpt -->

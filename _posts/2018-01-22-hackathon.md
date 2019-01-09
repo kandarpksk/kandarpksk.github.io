@@ -2,6 +2,7 @@
 layout: post
 title: "Startup UCSD hackathon"
 permalink: /startup-hackathon
+<!-- excerpt: ... -->
 ---
 
 <!-- shorten -->
