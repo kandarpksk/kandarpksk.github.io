@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Expanding the design space of interactions with screencast videos"
+title: "Exploring new interactions with screencast videos"
 permalink: /codemotion
 ---
 
