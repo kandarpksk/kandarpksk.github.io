@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "startup hackathon"
-permalink: /hackathon
+title: "Startup UCSD hackathon"
+permalink: /startup-hackathon
 ---
 
 <!-- shorten -->
