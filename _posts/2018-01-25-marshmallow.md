@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android permissions reimagined"
+title: "Android app permission dialogs reimagined"
 permalink: /android-permissions
 excerpt: Starting from Marshmallow (Android 6), users could place an app either in a position of absolute distrust or one with a high level of trust. We show how this does not offer the flexibility to allow certain actions while preventing undesirable ones. This paper aims to address the problem by...
 ---
