@@ -2,6 +2,7 @@
 layout: post
 title: "Exploring new interactions with screencast videos"
 permalink: /codemotion
+excerpt_separator: <!--more-->
 ---
 
 Videos are a pervasive format for delivering online education at scale. They are especially popular for computer programming tutorials since videos convey expert narration alongside the dynamic effects of editing and running code. However, these screencast videos simply consist of raw pixels, so there is no way to interact with the code embedded inside of them. To expand the design space of learner interactions with programming videos, I developed a computer vision algorithm that automatically extracts source code and dynamic edits from existing videos.
