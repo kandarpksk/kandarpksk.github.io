@@ -19,4 +19,4 @@ I used my algorithm to prototype a novel video player called *Codemotion*. The U
 Guided by my advisor, we then elicited ideas from potential users by running an usability study with 10 students followed by four participatory design workshops with 12 other students. Participants collectively generated ideas for 28 kinds of interactions such as inline code editing, code-based skimming, pop-up video search, and in-video coding exercises. (links to [conference talk slides](https://www.icloud.com/keynote/0CrqCVgrx10z1Dov72B_bmG-g#Codemotion-LAS18-Kandarp), [research paper](/files/codemotion-las2018-khandwala.pdf) and [code](https://github.com/kandarpksk/codemotion-las2018))
 
 Check out this 2-minute feature demo of *Codemotion*!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPROmzq973A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/OPROmzq973A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
