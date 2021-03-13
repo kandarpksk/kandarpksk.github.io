@@ -14,4 +14,4 @@ We built a simple prototype of our service using Invision, Sketch and Photoshop.
 
 **Future work:** We plan on adding upvotes, downvotes and commenting features so that people get well curated feeds of videos. We will also give users the power to make a video map of their location, so they can see videos on a map and spatially note what's happening.
 
-[^1]: along with Calvin Gomez, [Prabhav Khandelwal](https://www.prabhavkhandelwal.com), [Rahul Ramath](http://www.rahulramath.com), and Vineet Katta
+[^1]: along with [Prabhav Khandelwal](https://www.prabhavkhandelwal.com), [Rahul Ramath](https://www.linkedin.com/in/rahulramath), Calvin Gomez and Vineet Katta
