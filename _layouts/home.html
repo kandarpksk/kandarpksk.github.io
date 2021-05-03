@@ -28,6 +28,6 @@ layout: default
   <span style="margin: 5px;"> {{ paginator.page }} </span>
 
   {% if paginator.next_page %}
-    •&nbsp;&nbsp;<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">see more pieces of work</a>
+    •&nbsp;&nbsp;&nbsp;<a href="{{ paginator.next_page_path | prepend: site.baseurl }}">see more pieces of work</a>
   {% endif %}
 </div>
